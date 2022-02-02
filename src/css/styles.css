@@ -7,6 +7,11 @@ h1 {
     color: white;
 }
 
+ul {
+    width: 100%;
+    margin: 2rem;
+} 
+
 form {
     position: absolute;
     padding: 20px;
